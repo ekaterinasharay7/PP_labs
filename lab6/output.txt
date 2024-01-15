@@ -1,0 +1,64 @@
+Student:
+Name: sharay ID: 2223063 on what semestr now: 4
+
+Session number 1:
+Session exams: 
+Subject: matan Teacher: mazanik Mark: 8
+Subject: algebra Teacher: komrakov Mark: 9
+
+Session number 2:
+Session exams: 
+Subject: algosi Teacher: sobolevskaya Mark: 9
+Subject: matan Teacher: mazanik Mark: 7
+Subject: angl Teacher: dudka Mark: 10
+
+Session number 3:
+Session exams: 
+Subject: proga Teacher: karpovich Mark: 4
+
+Student:
+Name: froloh ID: 2223062 on what semestr now: 3
+
+Session number 1:
+Session exams: 
+Subject: algebra Teacher: komrakov Mark: 4
+Subject: proga Teacher: karpovich Mark: 9
+
+Session number 2:
+Session exams: 
+Subject: matan Teacher: mazanik Mark: 8
+
+All information about student :froloh
+Student:
+Name: froloh ID: 2223062 on what semestr now: 3
+
+Session number 1:
+Session exams: 
+Subject: algebra Teacher: komrakov Mark: 4
+Subject: proga Teacher: karpovich Mark: 9
+
+Session number 2:
+Session exams: 
+Subject: matan Teacher: mazanik Mark: 8
+
+All information about student with ID 2223063
+Student:
+Name: sharay ID: 2223063 on what semestr now: 4
+
+Session number 1:
+Session exams: 
+Subject: matan Teacher: mazanik Mark: 8
+Subject: algebra Teacher: komrakov Mark: 9
+
+Session number 2:
+Session exams: 
+Subject: algosi Teacher: sobolevskaya Mark: 9
+Subject: matan Teacher: mazanik Mark: 7
+Subject: angl Teacher: dudka Mark: 10
+
+Session number 3:
+Session exams: 
+Subject: proga Teacher: karpovich Mark: 4
+
+In session number 2 were such Excellent students:
+froloh
